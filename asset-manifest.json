@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trivia-game/static/css/main.ca004be9.css",
+    "main.js": "/trivia-game/static/js/main.138f36e4.js",
+    "static/js/787.600ff09a.chunk.js": "/trivia-game/static/js/787.600ff09a.chunk.js",
+    "static/media/thats_all.png": "/trivia-game/static/media/thats_all.c27b36188eb4d3afe801.png",
+    "index.html": "/trivia-game/index.html",
+    "main.ca004be9.css.map": "/trivia-game/static/css/main.ca004be9.css.map",
+    "main.138f36e4.js.map": "/trivia-game/static/js/main.138f36e4.js.map",
+    "787.600ff09a.chunk.js.map": "/trivia-game/static/js/787.600ff09a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca004be9.css",
+    "static/js/main.138f36e4.js"
+  ]
+}
